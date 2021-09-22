@@ -11,7 +11,7 @@
 @implementation printManager
 - (void)testPrint:(NSString *)text {
     
-    NSLog(@"JCNetworkManager print == %@",text);
+    NSLog(@"OwnPodFramework print == %@",text);
     
 }
 @end

@@ -7,7 +7,6 @@
 //
 
 #import "YMZViewController.h"
-
 @interface YMZViewController ()
 
 @end
