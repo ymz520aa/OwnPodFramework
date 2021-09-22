@@ -1,0 +1,16 @@
+PODS:
+  - OwnPodFramework (0.1.0)
+
+DEPENDENCIES:
+  - OwnPodFramework (from `../`)
+
+EXTERNAL SOURCES:
+  OwnPodFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OwnPodFramework: 558833fd0f51fdd4035d54e561f3344e8f005fe8
+
+PODFILE CHECKSUM: 488a30682a967595d723cd6e6a3ee5ecf5c97e2d
+
+COCOAPODS: 1.10.1

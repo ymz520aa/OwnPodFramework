@@ -1,0 +1,6 @@
+framework module OwnPodFramework {
+  umbrella header "OwnPodFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
